@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Danny's lab # the website title (if blank, full name will be used instead)
+title: Medical Imaging Intelligence Lab (Danny's Lab) # the website title (if blank, full name will be used instead)
 first_name: Dianning
 middle_name:
 last_name: He (何殿宁)
@@ -122,8 +122,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Medical Imaging Intelligence Lab # blog_name will be displayed in your blog page
+blog_description: Medical Imaging Intelligence Research Group
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -341,8 +341,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [He (何殿宁)]
+  first_name: [Dianning]
 
   style: apa
   locale: en
